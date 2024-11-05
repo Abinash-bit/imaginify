@@ -1,0 +1,4 @@
+fastapi-backend/env/
+fastapi-backend/static/outputs/*.mp4
+fastapi-backend/static/outputs/*.png
+fastapi-backend/gen_img/lora/noctua_fingerprint_001.safetensors
